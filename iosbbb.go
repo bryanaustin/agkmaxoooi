@@ -1,7 +1,7 @@
 package agkmaxoooi
 
 func init(){
-	everything['iosbbb'] = iosbbb
+	everything["iosbbb"] = iosbbb
 }
 
 var (
