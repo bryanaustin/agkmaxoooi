@@ -1,7 +1,7 @@
 package agkmaxoooi
 
 func init(){
-	everything["xtlvtu"] = xtlvtu
+	Everything["xtlvtu"] = xtlvtu
 }
 
 var (

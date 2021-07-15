@@ -1,7 +1,7 @@
 package agkmaxoooi
 
 func init(){
-	everything["gibnha"] = gibnha
+	Everything["gibnha"] = gibnha
 }
 
 var (

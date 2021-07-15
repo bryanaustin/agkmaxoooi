@@ -2,5 +2,5 @@ package agkmaxoooi
 
 
 var (
-	everything map[string][][][]float64
+	Everything map[string][][][]float64
 )
